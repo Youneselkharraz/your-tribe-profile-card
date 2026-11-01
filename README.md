@@ -1,10 +1,19 @@
-# Visitekaartje
+Visitekaartje
 
 Ontwerp en maak met HTML, CSS en JS een visitekaartje.
 
-<!-- De instructie van deze leertaak staan in de [INSTRUCTIONS](https://github.com/fdnd-task/your-tribe-profile-card/blob/main/docs/INSTRUCTIONS.md) -->
-De instructie voor deze leertaak staan in de [WIKI](https://github.com/fdnd-task/your-tribe-profile-card/wiki)
+De instructie voor deze leertaak staat in de WIKI
 
-## Licentie
+Beschrijving
 
-This project is licensed under the terms of the [MIT license](./LICENSE).
+Dit is mijn visitekaartje voor de opleiding Ad Frontend Design & Development. Ik heb eerst een breakdown schets gemaakt met alle HTML-elementen en daarna de pagina gebouwd. Joost gaf feedback op mijn schets, zie issue #1.
+
+Live: https://youneselkharraz.github.io/your-tribe-profile-card/
+
+Kenmerken
+Semantische HTML.
+Opmaak met CSS.
+Eerst geschetst, daarna gebouwd.
+Licentie
+
+This project is licensed under the terms of the MIT license.
